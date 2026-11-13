@@ -1,0 +1,11 @@
+PORTOFOLIO BAHASA INGGRIS RIZKY — NETLIFY
+
+1. Ekstrak ZIP ke sebuah folder di laptop.
+2. Buka index.html menggunakan Notepad atau VS Code untuk mengubah judul/deskripsi contoh sesuai tugas Bahasa Inggris yang benar-benar kamu kerjakan.
+3. Ganti setiap tautan “https://drive.google.com/” dengan tautan berbagi tugasmu. Pastikan dosen memiliki izin untuk melihat file.
+4. Ganti email-kamu@example.com dengan emailmu, atau hapus tombol kontak jika tidak diperlukan.
+5. Login ke Netlify, lalu cari menu manual deploy / drag-and-drop deployment.
+6. Seret folder hasil ekstrak yang berisi index.html ke area deployment, lalu tunggu sampai selesai.
+7. Buka URL yang diberikan Netlify untuk mengecek website.
+
+Tautan tugas yang ada masih contoh dan wajib diganti sebelum website dikumpulkan.
